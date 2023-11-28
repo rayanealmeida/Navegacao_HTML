@@ -1,2 +1,1 @@
-# Navegacao_HTML
- 
+Projeto para nevagação entre diferentes páginas em HTML.
